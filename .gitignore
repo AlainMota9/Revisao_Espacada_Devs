@@ -40,4 +40,5 @@ tsconfig.json
 
 #Banco de Dados
 /prisma
+/lib
 
