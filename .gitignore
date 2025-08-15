@@ -37,3 +37,7 @@ next-env.d.ts
 
 # configurações
 tsconfig.json
+
+#Banco de Dados
+/prisma
+
