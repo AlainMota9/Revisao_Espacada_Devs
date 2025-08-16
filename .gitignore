@@ -37,6 +37,10 @@ next-env.d.ts
 
 # configurações
 tsconfig.json
+eslint.config.mts
+.prettierrc.json
+.vscode
+
 
 #Banco de Dados
 /prisma
